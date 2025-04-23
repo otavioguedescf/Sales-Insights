@@ -114,5 +114,5 @@ Em andamento: 2.4 Agrupamentos + Documentação para GitHub
 Otávio Guedes
 Cientista de Dados em transição de carreira, focado em projetos práticos de ponta a ponta.
 
-[LinkedIn](https://www.linkedin.com/in/otaviomendesguedes/)
+Acesse o [meu perfil no LinkedIn](https://www.linkedin.com/in/otaviomendesguedes/)
 

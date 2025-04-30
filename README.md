@@ -102,22 +102,19 @@ A base `df_vendas.csv` contém **10.000 registros simulados**, com as seguintes 
 
 4.3 Seleção de variáveis importantes  
 
-4.4 Construção de modelos:  
+4.4 Construção e avaliação de modelos:  
 • Árvore de Decisão  
 • Random Forest  
 • XGBoost  
 • Rede Neural Simples (implementada com TensorFlow/Keras)
 
-4.5 Feature Engineering:  
+4.5 Feature Engineering e avaliações:  
 • Novas variáveis (ex: `Valor x Quantidade`, faixas de valor)  
 
-4.6 Avaliação:  
-• Acurácia, Precisão, Recall, F1-Score, Matriz de Confusão  
-
-4.7 Validação Cruzada:  
+4.6 Validação Cruzada:  
 • K-Fold (10 folds) com F1-Score  
 
-4.8 Escolha do melhor modelo:  
+4.7 Escolha do melhor modelo:  
 • Modelo final: **XGBoost**, por melhor performance e estabilidade  
 
 > 🔧 Decidimos encerrar este módulo com uma entrega sólida e bem documentada. Melhorias como ajuste fino de hiperparâmetros, Curva ROC e análise de importância ficam registradas para evolução futura.

@@ -197,12 +197,12 @@ A base `df_vendas.csv` contém **10.000 registros simulados**, com as seguintes 
 
 ```bash
 sales-insights/
-├── data/               # Arquivos simulados e tratados
+├── data/               # Arquivos base
 ├── notebooks/          # Jupyter Notebooks
-├── reports/            # Relatórios e PDFs
+├── reports/            # Relatórios e gráficos
 ├── app/                # Código de deploy
 ├── README.md           # Este arquivo
-├── requirements.txt    # Dependências
+├── requirements.txt    # Bibliotecas necessárias
 
 ```
 ---

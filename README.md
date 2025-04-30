@@ -106,7 +106,7 @@ A base `df_vendas.csv` contém **10.000 registros simulados**, com as seguintes 
 • Árvore de Decisão  
 • Random Forest  
 • XGBoost  
-• Rede Neural Simples (bônus)  
+• Rede Neural Simples
 
 4.5 Feature Engineering:  
 • Novas variáveis (ex: `Valor x Quantidade`, faixas de valor)  

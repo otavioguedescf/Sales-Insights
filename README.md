@@ -211,9 +211,9 @@ sales-insights/
 ---
 
 ## 🚀 Status
-Etapas concluídas: 1.0 e 2.0
+Etapas concluídas: 1.0 à 4.0
 
-Em andamento: 2.4 Agrupamentos + Documentação para GitHub
+Em andamento: 5.1 Pré-processamento + Documentação para GitHub
 
 ## 📅 Autor
 Otávio Guedes

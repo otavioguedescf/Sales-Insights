@@ -2,7 +2,7 @@
 
 **Análise exploratória, visualizações e modelagem preditiva de vendas com dados simulados**
 
-Este projeto simula um pipeline completo de Data Science, com foco em análise prática, aprendizado técnico e preparação de portfólio para oportunidades na área de dados.
+Este projeto simula um pipeline completo de Data Science, com foco em análise prática, aprendizado técnico e preparação de portfólio para oportunidades na área de ciência de dados.
 
 ---
 

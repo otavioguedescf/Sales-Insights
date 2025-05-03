@@ -14,10 +14,6 @@ Realizar uma análise detalhada de vendas simuladas, passando por todas as etapa
 - 📊 Análise Exploratória (EDA)
 - 📈 Visualizações com matplotlib, seaborn e plotly
 - 🧠 Modelagem preditiva com Decision Trees, Random Forest, XGBoost e Redes Neurais
-- 💬 NLP com campanhas e descrições
-- 🤖 Geração de relatórios com LLMs (OpenAI)
-- 🧪 Testes A/B
-- ⚙️ MLOps: pipeline, deploy e versionamento
 
 ---
 
@@ -121,78 +117,6 @@ A base `df_vendas.csv` contém **10.000 registros simulados**, com as seguintes 
 
 ---
 
-### 💬 5. NLP – Processamento de Linguagem Natural
-5.1 Pré-processamento:  
-• Limpeza, tokenização, stopwords  
-
-5.2 Vetorização:  
-• TF-IDF, Bag of Words (opcional)  
-
-5.3 Exploração textual:  
-• Palavras mais frequentes, wordcloud  
-
-5.4 Clusterização:  
-• KMeans ou DBSCAN sobre vetores  
-
-5.5 Classificação textual (bônus):  
-• Classificação da descrição do produto  
-
----
-
-### 🤖 6. LLMs e RAG – Large Language Models e Recuperação de Contexto
-
-6.1 Criação de embeddings a partir dos textos:  
-• Geração de vetores de contexto usando modelos como `Sentence Transformers`  
-
-6.2 Construção de base vetorizada para recuperação:  
-• Uso de ferramentas como `FAISS` ou `Chroma` para indexação semântica  
-
-6.3 Implementação de um pequeno RAG (Retrieval-Augmented Generation):  
-• Usuário faz perguntas sobre vendas  
-• O sistema recupera trechos relevantes + gera resposta com LLM (ex: GPT)  
-
-6.4 (Bônus) Integração com modelos open-source:  
-• Hugging Face Transformers, GPT-4-All, OpenAssistant, entre outros  
-
----
-
-### 🧪 7. Testes A/B – Validação de Impacto Estatístico
-
-7.1 Planejamento de Testes A/B em vendas:  
-• Como montar um experimento entre Campanha A vs Campanha B  
-
-7.2 Simulação prática de Teste A/B:  
-• Uso de dados simulados ou reais de campanhas para testes de performance  
-
-7.3 Análise Estatística:  
-• Teste de hipóteses com `T-Test` e `Mann-Whitney`  
-• Cálculo e interpretação de p-valor  
-
-7.4 Conclusão do teste:  
-• Tomada de decisão com base em evidência estatística sólida  
-
----
-
-### ⚙️ 8. MLOps – Operacionalização de Modelos
-
-8.1 Pipeline de Machine Learning estruturado:  
-• Separação clara entre: Pré-processamento → Treinamento → Avaliação → Deploy  
-
-8.2 Serialização do modelo:  
-• Exportação com `pickle`, `joblib` ou formato interoperável como `ONNX`  
-
-8.3 Criação de API para o modelo:  
-• Backend com `FastAPI`, simples e moderno para servir o modelo  
-
-8.4 Deploy simples e escalável:  
-• Com `Streamlit`, `Render`, `Hugging Face Spaces`, ou servidores locais  
-
-8.5 Controle de versão e documentação:  
-• Repositório versionado com `Git` + `GitHub`  
-• `README.md` completo e estruturado para portfólio e contratação    
-
----
-
 ## 📂 Estrutura de Pastas
 
 ```bash
@@ -206,11 +130,6 @@ sales-insights/
 
 ```
 ---
-
-## 🚀 Status
-Etapas concluídas: 1.0 à 4.0
-
-Em andamento: 5.1 Pré-processamento + Documentação para GitHub
 
 ## 📅 Autor
 Otávio Guedes

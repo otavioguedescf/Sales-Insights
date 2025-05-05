@@ -7,6 +7,4 @@ scikit-learn
 xgboost
 tensorflow
 torch
-joblib
-openai
 streamlit
